@@ -1,4 +1,4 @@
-# Open-Source-N64-Expansion-Pak
+# Open Source N64 Expansion Pak
 
 ![A picture of the custom Open-Source Expansion Pak running](https://github.com/MasonStooksbury/Open-Source-N64-Expansion-Pak/blob/main/pictures/Itdo.png?raw=true)
 
