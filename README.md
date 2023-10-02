@@ -2,14 +2,18 @@
 
 ![A picture of the custom Open-Source Expansion Pak running](https://github.com/MasonStooksbury/Open-Source-N64-Expansion-Pak/blob/main/pictures/Itdo.png?raw=true)
 
-At long last! Here are the all the files you would need to create your own OEM Expansion Pak. All you would need to do is clone this repo, open the .kicad_pro file in KiCad, and you can poke around the files.
+Here are the all the files you need to create your own Expansion Pak! All you need to do is clone this repo, open the .kicad_pro file in KiCad, and you can poke around the files.
 
-I use this plugin in KiCad to make it super easy to order boards with all the correct settings: [https://www.pcbway.com/blog/News/PCBWay_Plug_In_for_KiCad_3ea6219c.html](https://www.pcbway.com/blog/News/PCBWay_Plug_In_for_KiCad_3ea6219c.html)
+I use this plugin in KiCad to make it super easy to order boards with most of the correct settings: [https://www.pcbway.com/blog/News/PCBWay_Plug_In_for_KiCad_3ea6219c.html](https://www.pcbway.com/blog/News/PCBWay_Plug_In_for_KiCad_3ea6219c.html). You'll also find step-by-step instructions below.
 
 <br>
 <br>
 
 ## Some things to note:
+
+ - In order for this Pak to work you will need two 2MB RAM modules. After lots of digging, the only ones I've found that are available, work, and don't cost $25+ a piece can be found [here](https://www.questcomp.com/part/4/upd488170lg6-a60/412376032?utm_source=findchips&utm_medium=industry-cpc&utm_term=upd488170lg6-a60&utm_content=standardpricing&utm_campaign=aktype0). I realize that after buying boards and the chips that this is encroaching on the price of an OEM board from eBay. I'm currently planning out whether or not to do a Kickstarter or something to buy all of the available chips at the bulk rate and then torture myself making as many boards by hand as I can lol. No promises though; still looking at different options to make these available to more people.
+
+ - I'm also in the process of designing a new case for this that could be 3D-printed. Not necessary, but would be a nice touch I think. I hope to have that out soon and will add it here when it's ready and tested
 
  - The "ExpansionPak.pretty" folder is a library containing all the footprints needed for the project. Including the Edge Connector footprint created by Bigbass (check out more of his stuff here: [https://hachyderm.io/@bigbass](https://hachyderm.io/@bigbass) and here: [https://github.com/bigbass1997](https://github.com/bigbass1997/)). This saved me countless hours and pain, so a huge shoutout to him for allowing me to use it and release it
 
