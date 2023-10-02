@@ -2,9 +2,9 @@
 
 ![A picture of the custom Open-Source Expansion Pak running](https://github.com/MasonStooksbury/Open-Source-N64-Expansion-Pak/blob/main/pictures/Itdo.png?raw=true)
 
-At long last! Here are the all the files you would need to create your own OEM Expansion Pak. All you would need to do is clone this repo, open the .kicad_pro file in KiCad, and you can poke around the files.
+Here are the all the files you need to create your own Expansion Pak! All you need to do is clone this repo, open the .kicad_pro file in KiCad, and you can poke around the files.
 
-I use this plugin in KiCad to make it super easy to order boards with all the correct settings: [https://www.pcbway.com/blog/News/PCBWay_Plug_In_for_KiCad_3ea6219c.html](https://www.pcbway.com/blog/News/PCBWay_Plug_In_for_KiCad_3ea6219c.html)
+I use this plugin in KiCad to make it super easy to order boards with most of the correct settings: [https://www.pcbway.com/blog/News/PCBWay_Plug_In_for_KiCad_3ea6219c.html](https://www.pcbway.com/blog/News/PCBWay_Plug_In_for_KiCad_3ea6219c.html). You'll also find step-by-step instructions below.
 
 <br>
 <br>
