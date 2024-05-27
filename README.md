@@ -11,7 +11,10 @@ I use this plugin in KiCad to make it super easy to order boards with most of th
 
 <br><br>
 
-# BUILD AT YOUR OWN RISK -- UPDATE: 12/23/2023
+# UPDATE: 05/26/2024
+A potential fix has finally been found. New boards are about to be printed and I'll update on the progress as soon as I test them. Expect an update in about 2-3 weeks
+
+# BUILD AT YOUR OWN RISK -- 12/23/2023
 Recently I went to play the N64 that has been using this pak for a while and it wouldn't respond. After lots of testing, I feel like it has to be the pak. Meaning that I don't feel confident in this design anymore, and I need to do further testing to figure out what is going on. I'm glad to have videographic proof that this pak did work and didn't cause any issues at the time, but that no longer seems to be the case. While I don't know for 100% fact that this pak is the issue, it's one of the only variables, and I would rather put this warning in here now, than have people build this, brick their N64, and it be my fault because I didn't put a warning out there.
 
 ### Going forward
