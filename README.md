@@ -11,20 +11,14 @@ I use this plugin in KiCad to make it super easy to order boards with most of th
 
 <br><br>
 
-# UPDATE: 05/26/2024
-A potential fix has finally been found. New boards are about to be printed and I'll update on the progress as soon as I test them. Expect an update in about 2-3 weeks
+# FINAL UPDATE: 06/14/2024
+Fixed the N64 killer issue. The issue had to do with the shared GND between pins 2, 4, 10, and 14. Pin 14 has a special GND connection described in the datasheet as "Analog Ground" which is used for "clock generation in RDRAM". This should only be connected to pins 10, 4, and 2. Because pins 2, 4, and 10 are all labelled "GND" in the datasheet, I had mistakenly assumed that this was just the same as regular GND so I tied them all into the main GND plane.
 
-# BUILD AT YOUR OWN RISK -- 12/23/2023
-Recently I went to play the N64 that has been using this pak for a while and it wouldn't respond. After lots of testing, I feel like it has to be the pak. Meaning that I don't feel confident in this design anymore, and I need to do further testing to figure out what is going on. I'm glad to have videographic proof that this pak did work and didn't cause any issues at the time, but that no longer seems to be the case. While I don't know for 100% fact that this pak is the issue, it's one of the only variables, and I would rather put this warning in here now, than have people build this, brick their N64, and it be my fault because I didn't put a warning out there.
+Now that these are isolated from the main GND plane, everything is working perfectly!
 
-### Going forward
-I intend to do more testing to isolate why exactly this is happening and work out a fix. It's really weird, doesn't seem consistent, and I'm not really sure what all needs to happen, but I'll post an update here when I have more news.
+Check out a video of it [here](https://youtu.be/-FGbQ5z2U0c)
 
-### Does not affect the OEM design repo
-The OEM recreation found [here](https://github.com/MasonStooksbury/OEM-N64-Expansion-Pak) does not have this issue as it is a 1:1 replication of the original Nintendo design. So if you have any 4MB chips, you can build that one and not have to worry about this happening.
-
-<br>
-<br>
+<br><br>
 
 ## Some things to note:
 
