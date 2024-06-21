@@ -34,8 +34,8 @@
         "other_text_upright": false,
         "pads": {
           "drill": 0.0,
-          "height": 2.8,
-          "width": 0.75
+          "height": 1.45,
+          "width": 1.175
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
@@ -380,7 +380,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "OpenSourceN64ExpansionPak.step",
+      "step": "../../../Desktop/OpenSourceN64ExpansionPak.step",
       "vrml": "OpenSourceN64ExpansionPak.wrl"
     },
     "page_layout_descr_file": ""
