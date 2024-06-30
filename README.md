@@ -32,10 +32,14 @@ Check out a video of it [here](https://youtu.be/-FGbQ5z2U0c)
 
 Thank you so much to everyone who has followed along, commented, gave me feedback, and more. It's all very much appreciated and I'm excited to be able to give back a little. And another huge shoutout to Bigbass for allowing me to use their Edge Connector as it was a perfect fit and saved me countless revisions and lots of headache.
 
-<br>
-<br>
+<br><br>
 
-# Making your own board
+# Making your own housing
+Check out the README [here](https://github.com/MasonStooksbury/Open-Source-N64-Expansion-Pak/blob/main/housing/README.md) to make or order your own 3D-printable housing for the PCB
+
+<br><br>
+
+# Making your own PCB
 
 ## Installing necessary software, pulling the project, and uploading everything to PCBWay
  - First, download KiCad [here](https://www.kicad.org/download/)
