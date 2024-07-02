@@ -6,7 +6,7 @@ I've provided 3MF and STEP files for the housing so that it should work with any
 
 1) When printing, you'll want to flip the top section so that the inside is facing upwards. This design also does not require supports when printing. I did sand the inside of mine a little for a tighter fit, but this shouldn't be necessary depending on your printer and settings
 
-1) The design is meant to be used with two M2 screws to hold everything together, but you can modify the hole if needed. I designed this to not use threaded inserts (as a lot of people do not have them), but if you would like to use those, I made the geometry of the holes very simple so that you could modify them to use inserts or some other solution. `NOTE: If you modify the holes in the top of the shell, be sure to fillet the end like I have so that you won't need to use supports`
+1) The design is meant to be used with two M2 screws to hold everything together, but you can modify the hole if needed. The screws need to be at least 5mm long and can go up to 8 or 9 I think. I designed this to not use threaded inserts (as a lot of people do not have them), but if you would like to use those, I made the geometry of the holes very simple so that you could modify them to use inserts or some other solution. `NOTE: If you modify the holes in the top of the shell, be sure to fillet the end like I have so that you won't need to use supports`
 
 1) Finally, I left the back face blank instead of putting some annoying logo or something. This way you can design the housing however you like!
 
