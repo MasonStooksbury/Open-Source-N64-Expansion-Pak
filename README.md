@@ -35,7 +35,9 @@ Thank you so much to everyone who has followed along, commented, gave me feedbac
 <br><br>
 
 # Making your own housing
-Check out the README [here](https://github.com/MasonStooksbury/Open-Source-N64-Expansion-Pak/blob/main/housing/README.md) to make or order your own 3D-printable housing for the PCB
+Check out the README [here](https://github.com/MasonStooksbury/Open-Source-N64-Expansion-Pak/blob/main/housing/README.md) to make or order your own 3D-printable housing for the PCB. If you just want the files, you can download them here:
+ - [Thingiverse](https://www.thingiverse.com/thing:6682066)
+ - [Thangs.com](https://thangs.com/designer/LambBrainz/3d-model/Open%20Source%20N64%20Expansion%20Pak%20Housing-1094697)
 
 <br><br>
 
