@@ -11,12 +11,10 @@ I use this plugin in KiCad to make it super easy to order boards with most of th
 
 <br><br>
 
-# FINAL UPDATE: 06/14/2024
-Fixed the N64 killer issue. The issue had to do with the shared GND between pins 2, 4, 10, and 14. Pin 14 has a special GND connection described in the datasheet as "Analog Ground" which is used for "clock generation in RDRAM". This should only be connected to pins 10, 4, and 2. Because pins 2, 4, and 10 are all labelled "GND" in the datasheet, I had mistakenly assumed that this was just the same as regular GND so I tied them all into the main GND plane.
+# NEW UPDATE: 01/13/2024
+A brand new N64-killer issue has been brought to my attention (https://x.com/Consoles4You/status/1859336481569190276)
 
-Now that these are isolated from the main GND plane, everything is working perfectly!
-
-Check out a video of it [here](https://youtu.be/-FGbQ5z2U0c)
+It seems that Consoles4You has made some modifications and have been able to resolve the issue. I've reached out to them to thank them for all the work they've done and they've indicated on X that they plan to open source the revisions once they're sure they work. Those changes may or may not appear here (depends on their desires since they did the hard work). But I'll provide an update here once I have one.
 
 <br><br>
 
