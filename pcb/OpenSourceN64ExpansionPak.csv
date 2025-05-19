@@ -1,6 +1,0 @@
-"Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
-1;"1";"EdgeConnector";1;"Expansion Pak Edge Connector";;;
-2;"U1,U2";"RAM Module";2;"MSM5718B70-60GS-K";;;
-3;"C2,C4,C7,C5,C3,C6,C8,C1";"C_0805_2012Metric_Pad1.18x1.45mm_HandSolder";8;"C0805C185K8PAC7800";;;
-4;"R8,R4,R3,R11,R12,R1,R6,R10,R7,R9,R2,R5";"R_0805_2012Metric_Pad1.20x1.40mm_HandSolder";12;"RC0805FR-0751RL";;;
-5;"R13";"R_0805_2012Metric_Pad1.20x1.40mm_HandSolder";1;"Yageo RC0805FR-07510RL";;;
