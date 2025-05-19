@@ -49,3 +49,9 @@ You can also use the KiCad files to generate production files for any other PCB 
  - `Remove product No`: JLCPCB adds a tracking number to the silkscreen of your boards so that their manufacturing process is a little easier. You can select the `Remove Mark` option here at no extra cost to have them not add that. It's not a huge deal, but something to be aware of.
 
 *__NOTE__* - You will have to bevel the edge of cart edge manually as JLCPCB does not do bevelled edges on PCBs smaller than 700mm x 700mm
+
+<br><br>
+
+# PDF Schematic
+
+You can find the schematic as a pdf [here](https://github.com/MasonStooksbury/Open-Source-N64-Expansion-Pak/blob/main/files/oexp.pdf), this might be helpful if you don't use Kicad and want to know more about the jumper settings.
