@@ -22,7 +22,7 @@ Fabrication can be done at JLCPCB, production files can be found under releases
 
 ## Some things to note:
 
- - In order for this Pak to work you will need two 2MB RAM modules. After lots of digging, the only ones I've found that are available, work, can be found from the US [here](https://www.dfsales.com/ic/upd488170lg6-a60-1) and from China [here](https://www.questcomp.com/part/4/upd488170lg6-a60/412376032?utm_source=findchips&utm_medium=industry-cpc&utm_term=upd488170lg6-a60&utm_content=standardpricing&utm_campaign=aktype0)
+ - In order for this Pak to work you will need two 2MB RAM modules. After lots of digging, the only ones I've found that are available, work, can be found from the US [here](https://dfsales.com/upd488170lg6-a60) and from China [here](https://www.questcomp.com/part/4/upd488170lg6-a60/412376032?utm_source=findchips&utm_medium=industry-cpc&utm_term=upd488170lg6-a60&utm_content=standardpricing&utm_campaign=aktype0)
 
  - The "ExpansionPak.pretty" folder is a library containing all the footprints needed for the project. Including the Edge Connector footprint created by Bigbass and corrected by Consoles4You (check out more of Bigbass stuff here: [https://hachyderm.io/@bigbass](https://hachyderm.io/@bigbass) and here: [https://github.com/bigbass1997](https://github.com/bigbass1997/)).
 
