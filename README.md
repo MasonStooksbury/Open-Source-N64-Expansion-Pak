@@ -1,3 +1,5 @@
+[![License: Attribution-NonCommercial-ShareAlike 4.0 International](https://img.shields.io/badge/License-Attribution%20NonCommercial%20ShareAlike%204.0%20International-blue)](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.txt)
+
 # Open Source N64 Expansion Pak | KiCad 9.0
 
 ![A picture of the custom Open-Source Expansion Pak running](https://github.com/MasonStooksbury/Open-Source-N64-Expansion-Pak/blob/main/pictures/Itdo.png?raw=true)
